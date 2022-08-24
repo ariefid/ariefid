@@ -49,5 +49,5 @@
     <a href="https://github.com/ariefid" target="_blank" title="Github"><img src="https://img.shields.io/badge/-282a36?style=flat&logo=github" alt="Github" /></a> 
     <a href="https://gitlab.com/ariefid" target="_blank" title="Gitlab"><img src="https://img.shields.io/badge/-2838cb?style=flat&logo=gitlab" alt="Gitlab" /></a> <br />
     <a href="https://bitbucket.org/ariefid" target="_blank" title="Bitbucket"><img src="https://img.shields.io/badge/-0747a6?style=flat&logo=bitbucket" alt="Bitbucket" /></a> 
-    <a href="https://dev.azure.com/ariefid" target="_blank" title="Dev Azure"><img src="https://img.shields.io/badge/-090d1d?style=flat&logo=microsoft" alt="Dev Azure" /></a> <br />
+    <a href="https://dev.azure.com/ariefid/ariefid" target="_blank" title="Dev Azure"><img src="https://img.shields.io/badge/-090d1d?style=flat&logo=microsoft" alt="Dev Azure" /></a> <br />
 </p>
