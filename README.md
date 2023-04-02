@@ -1,7 +1,7 @@
 # Hi 👋!
 
 <p>Hi there, I'm Arief P.</p>
-<p>I'm passionate as Full Stack Developer from Indonesia.</p>
+<p>I'm passionate as Backend Engineer from Indonesia.</p>
 <p>I have been developt Real-time Systems, CMS, User Base Systems, Management Systems, and many more.</p>
 <p>I'm comfortable using SCSS/SASS, CSS, HTML, Laravel, and AdonisJS in my daily routine.</p>
 
